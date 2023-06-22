@@ -15,7 +15,7 @@ while(1)
   {
       if(getal == 0)
         {
-          printf("yes\n");
+          printf("perhaps\n");
           break;
         }
         else
