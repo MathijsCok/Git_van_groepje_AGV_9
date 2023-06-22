@@ -5,13 +5,14 @@
 
 int main()
 {
-  int getal = 1;
-
+  int getal = 1; 
+  
 while(1)
 {
   printf("getal:\n");
   scanf("%d", &getal);
   printf("\n");
+  scanf ("get:\n");
 
   while(1)
   {
