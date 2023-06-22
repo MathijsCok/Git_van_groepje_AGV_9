@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//hoi leks ik verander dit 
+//hoi leks ik verander dit
 
 int main()
 {
@@ -17,14 +17,14 @@ while(1)
   {
       if(getal == 0)
         {
-          printf("no\n");
+          printf("yes\n");
           break;
         }
         else
         {
           if(getal == 1)
           {
-            printf("yes\n");
+            printf("no\n");
             break;
           }
           else
