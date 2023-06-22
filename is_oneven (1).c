@@ -18,14 +18,14 @@ while(1)
   {
       if(getal == 0)
         {
-          printf("yes\n");
+          printf("dit is een even getal \n");
           break;
         }
         else
         {
           if(getal == 1)
           {
-            printf("no\n");
+            printf("dit is een oneven getal \n");
             break;
           }
           else
